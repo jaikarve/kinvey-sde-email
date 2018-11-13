@@ -1,0 +1,14 @@
+{
+  "name": "kinvey-sde-email",
+  "version": "1.0.7",
+  "description": "Sends email as part of a flex service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jai Karve",
+  "license": "ISC",
+  "dependencies": {
+    "kinvey-flex-sdk": "^3.1.2"
+  }
+}
